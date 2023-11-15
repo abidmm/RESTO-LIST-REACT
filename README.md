@@ -1,5 +1,5 @@
 
- <h1 align="center">Crossborder Website</h1>
+ <h1 align="center">Restaurant Listing Website</h1>
 
 <h3>Project Description</h3>
 
